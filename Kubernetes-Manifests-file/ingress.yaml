@@ -11,7 +11,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: amanpathakdevops.study
+    - host: shoppingcart5124uuid.shop
       http:
         paths:
           - path: /api
